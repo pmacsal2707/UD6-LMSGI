@@ -1,0 +1,5 @@
+12:10:57.714  INFO  [LibraryManager] ---- group creation in D:\lenguaje\UD_6\act2\GrupoLibreriasXML
+12:10:57.714  INFO  [LibraryManager]  100
+14:27:58.891  INFO  [LibraryManager] shutdown begins
+14:27:58.985  INFO  [LibraryManager]  closed library BD_Libros
+14:27:58.985  INFO  [LibraryManager] shutdown complete.
